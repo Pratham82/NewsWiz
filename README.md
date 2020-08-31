@@ -1,0 +1,2 @@
+# NewsWiz
+A hackerNews clone.
